@@ -16,5 +16,5 @@
 * I created a new dataframe, hotel_df, that holds the hotel names from the hotel search above.
 * There were search parameters already provided, so using them, I searched for a hotel for each city.
 * I iterated the hotel_df dataframe, retrieved the latitude and longitude of each city to find the nearest hotel based on the search parameters from above. I then added the hotel name to the hotel_df dataframe. I skipped the city if a hotel isn't found.
-* ![hotel_df](https://github.com/pratishthasingh1/WeatherPy/blob/master/hotel_df.png?raw=true)
+ ![hotel_df](https://github.com/pratishthasingh1/WeatherPy/blob/master/hotel_df.png?raw=true)
 * I exported the hotel_df as a CSV, which can be found in this repo under r"WeatherPy_vacation.csv."
